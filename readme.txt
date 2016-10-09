@@ -33,10 +33,7 @@ eee
 e
 
 ew
-llll
-
-
-<<<<<<< HEAD
+lll
 =====================
 giugaibug
 =====================
@@ -44,10 +41,11 @@ giugaibug
 =======
 
 ------------------------------oo-o-o-o-o-o-
->>>>>>> der
 
 
 
 
 
-iiiiiiiiiiiiiil
+
+q
+:qiiiiiiiiiiiiiil
